@@ -17,6 +17,8 @@ Ingeniero de Software ubicado en La Habana, Cuba. Me especializo en diseñar arq
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1231?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-1231?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -30,6 +32,8 @@ Ingeniero de Software ubicado en La Habana, Cuba. Me especializo en diseñar arq
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+
 
 ### 📈 Estadísticas
 <div align="center">
