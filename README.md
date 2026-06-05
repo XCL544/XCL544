@@ -43,7 +43,6 @@ Ingeniero de Software ubicado en La Habana, Cuba. Me especializo en diseñar arq
 
 ### 📫 Conecta conmigo
 - 🗺️ Mi progreso detallado: [Roadmap Profile](https://roadmap.sh/u/xcl544)
-- 💼 [LinkedIn](URL_DE_TU_LINKEDIN)
 
 
 [![roadmap.sh](https://roadmap.sh/card/tall/67620efd8fe51199dad3571b?variant=dark&roadmaps=python%2Cbackend%2Cdjango%2Cgit-github)](https://roadmap.sh)
