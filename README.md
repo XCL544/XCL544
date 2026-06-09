@@ -36,10 +36,7 @@ Ingeniero de Software ubicado en La Habana, Cuba. Me especializo en diseñar arq
 
 
 ### 📈 Estadísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XCL544&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XCL544&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XCL544&theme=github-dark-blue&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 ### 📫 Conecta conmigo
 - 🗺️ Mi progreso detallado: [Roadmap Profile](https://roadmap.sh/u/xcl544)
