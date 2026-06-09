@@ -37,6 +37,7 @@ Ingeniero de Software ubicado en La Habana, Cuba. Me especializo en diseñar arq
 
 ### 📈 Estadísticas
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XCL544&theme=github-dark-blue&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XCL544&theme=transparent&show_icons=true)
 
 ### 📫 Conecta conmigo
 - 🗺️ Mi progreso detallado: [Roadmap Profile](https://roadmap.sh/u/xcl544)
